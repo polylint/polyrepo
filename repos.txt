@@ -1,0 +1,9 @@
+# Every repository this workspace manages, one per line: <directory> <remote>.
+# The directory is relative to the polyrepo root. The mise tasks in mise-tasks/ read this file.
+adrlint git@github.com:polylint/adrlint.git
+dot-github git@github.com:polylint/.github.git
+homebrew-tap git@github.com:polylint/homebrew-tap.git
+polylint git@github.com:polylint/polylint.git
+scoop-bucket git@github.com:polylint/scoop-bucket.git
+skif git@github.com:polylint/skif.git
+uncomment git@github.com:polylint/uncomment.git
