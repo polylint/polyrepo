@@ -7,3 +7,4 @@ polylint git@github.com:polylint/polylint.git
 scoop-bucket git@github.com:polylint/scoop-bucket.git
 skif git@github.com:polylint/skif.git
 uncomment git@github.com:polylint/uncomment.git
+rumdl git@github.com:polylint/rumdl.git
